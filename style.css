@@ -1,0 +1,23 @@
+body {
+	margin: 10%;
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 5%;
+}
+
+h2 {
+	margin-bottom: 2.5%;
+	margin-top: 5%;
+}
+
+dt {
+	margin-top: 1%;
+	font-family: Georgia;
+}
+
+dd {
+	margin-top: .5%;
+	margin-bottom:2.5%;
+}
