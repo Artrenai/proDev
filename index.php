@@ -100,7 +100,7 @@
 				of all the negativity
 			</dd>
 			<dt>External</dt>
-			<dd>Im new to New Mexico, I dont many people. Tomorrow Im going to see some rentals. Its messing up my goals
+			<dd>Im new to New Mexico, I don't know many people. Tomorrow Im going to see some rentals. Its messing up my goals
 				for the next couple of months. Other than that I've
 				been blessed. Im a nice person, a genuinely nice person. I'm very laid back and empathetic. When people go
 				in a negative direction, I go in a positive direction Im able to understand
