@@ -79,7 +79,7 @@
 			<li><a href="https://www.artrenai.com">Personal Website</a></li>
 		</ul>
 		<h2>Resume 1st Draft</h2>
-		<a href="docs/resume.pdf" download="resume">Resume</a>
+		<a href="docs/godfrey-davis-resume.pdf" download="godfrey-davis-resume">Resume</a>
 		<h2>Forbidden Island Assesment</h2>
 		<dl>
 			<dt><strong>Jack:</strong></dt>
@@ -109,7 +109,7 @@
 			</dd>
 		</dl>
 		<h2>Resume 2nd Draft</h2>
-		<a href="docs/resume2.pdf" download="Resume_2">Resume</a>
+		<a href="docs/godfrey-davis-resume2.pdf" download="godfrey-davis-Resume_2">Resume</a>
 		<footer>
 
 		</footer>
