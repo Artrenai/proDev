@@ -110,8 +110,10 @@
 		</dl>
 		<h2>Resume 2nd Draft</h2>
 		<a href="docs/resume2.pdf" download="Resume_2">Resume</a>
-	</body>
-	<footer>
+		<footer>
 
-	</footer>
+		</footer>
+
+	</body>
+
 </html>
